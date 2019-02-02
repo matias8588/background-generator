@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matias8588/background-generator.git"
+  },
+  "author": "Matias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matias8588/background-generator/issues"
+  },
+  "homepage": "https://github.com/matias8588/background-generator#readme"
+}
